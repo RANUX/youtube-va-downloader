@@ -30,7 +30,6 @@ CURRENT_DIR = pathlib.Path(__file__).parent.absolute()
 speed_up = SPEED_UPS[SPEED_100_KEY]
 
 def download_video(url, path):
-    download_audio(url, path)
 
     audio_path = download_audio(url, path)
     new_audio_path = os.path.splitext(audio_path)[0] + '-audio.mp4'
