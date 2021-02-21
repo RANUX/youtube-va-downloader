@@ -1,7 +1,7 @@
 
 # Youtube VA Downloader
 
-You can download youtube video or audio by using.
+You can download youtube video or audio by using this app.
 
 ## Prerequirements
 Install following applications:
