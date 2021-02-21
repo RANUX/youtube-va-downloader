@@ -27,6 +27,9 @@ python main.py
  * Load playlist
  * Load all videos from playlist
 
+ ## Screenshot
+![Youtube downloader screenshot](https://i.imgur.com/ylacxR3.png)
+
 ## Useful links
 * [How do I speed up a video by 60X in ffmpeg?](https://superuser.com/questions/1261678/how-do-i-speed-up-a-video-by-60x-in-ffmpeg)
 * [PyTube](https://python-pytube.readthedocs.io/en/latest/index.html)
