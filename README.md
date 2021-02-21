@@ -23,9 +23,9 @@ python main.py
 ```
 
 ## Planned features:
- Show preloader
- Load playlist
- Load all videos from playlist
+ * Show preloader
+ * Load playlist
+ * Load all videos from playlist
 
 ## Useful links
 * [How do I speed up a video by 60X in ffmpeg?](https://superuser.com/questions/1261678/how-do-i-speed-up-a-video-by-60x-in-ffmpeg)
